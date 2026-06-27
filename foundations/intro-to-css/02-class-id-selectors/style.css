@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.odd
+    {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    }
+
+#no2
+    {
+        color: blue;
+        font-size: 36px;
+    }
+
+#no3
+    {
+        font-size: 24px;
+    }
+
+#no4
+    {
+        background-color: hsl(120, 100%, 75%);
+        font-weight: bold;
+        font-size: 24px;
+    }
